@@ -10,3 +10,5 @@
 ### This widget is useful for showing user messages.
 ## 5.Align Widget
 ### This widget is useful for put widget in specific location where i need.
+## 6.AnimatedAlign Widget
+### This widget is useful for put widget in specific location where i need using animation.
