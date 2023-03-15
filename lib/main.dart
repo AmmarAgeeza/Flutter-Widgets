@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/7_animated_builder.dart';
+import 'widgets/8_animated_container.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedBuilderWidget(),
+      home: AnimatedContainerWidget(),
     );
   }
 }

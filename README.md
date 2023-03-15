@@ -14,3 +14,5 @@
 ### This widget is useful for put widget in specific location where i need using animation.
 ## 7.AnimatedBuilder Widget
 ### This widget is useful for build widget in animation way.
+## 8.AnimatedContainer Widget
+### This widget is useful for build Container in animation way.
