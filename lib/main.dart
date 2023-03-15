@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/8_animated_container.dart';
+import 'widgets/9_animated_cross_fade.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedContainerWidget(),
+      home: AnimatedCrossFadeWidget(),
     );
   }
 }

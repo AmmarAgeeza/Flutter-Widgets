@@ -16,3 +16,5 @@
 ### This widget is useful for build widget in animation way.
 ## 8.AnimatedContainer Widget
 ### This widget is useful for build Container in animation way.
+## 9.AnimatedCrossFade Widget
+### This widget is useful for switch between two widgets in CrossFade animation way.
