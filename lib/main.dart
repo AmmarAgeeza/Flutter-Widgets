@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/widgets/6_animated_align.dart';
+
+import 'widgets/7_animated_builder.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedAlignWidget(),
+      home: AnimatedBuilderWidget(),
     );
   }
 }

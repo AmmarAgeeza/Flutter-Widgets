@@ -12,3 +12,5 @@
 ### This widget is useful for put widget in specific location where i need.
 ## 6.AnimatedAlign Widget
 ### This widget is useful for put widget in specific location where i need using animation.
+## 7.AnimatedBuilder Widget
+### This widget is useful for build widget in animation way.
