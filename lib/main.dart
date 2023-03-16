@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/10_animated_default_text_style.dart';
+import 'widgets/11_animated_icon.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedDefaultTextStyleWidget(),
+      home: AnimatedIconWidget(),
     );
   }
 }
