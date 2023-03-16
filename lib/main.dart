@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/animated_default_text_style.dart';
+import 'widgets/10_animated_default_text_style.dart';
 
 void main() {
   runApp(const MyApp());
