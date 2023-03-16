@@ -18,3 +18,5 @@
 ### This widget is useful for build Container in animation way.
 ## 9.AnimatedCrossFade Widget
 ### This widget is useful for switch between two widgets in CrossFade animation way.
+## 10.AnimatedDefaultTextStyle Widget
+### This widget is useful for switch between two text in an animation way.
