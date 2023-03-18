@@ -20,5 +20,7 @@
 ### This widget is useful for switch between two widgets in CrossFade animation way.
 ## 10.AnimatedDefaultTextStyle Widget
 ### This widget is useful for switch between two text in an animation way.
-## 10.AnimatedIcon Widget 
+## 11.AnimatedIcon Widget 
 ### This widget is useful for switch between two icons in an animation way.
+## 12.AnimatedList Widget 
+### This widget is useful for showing items in List in an animation way.
