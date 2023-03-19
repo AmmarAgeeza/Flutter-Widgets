@@ -24,3 +24,5 @@
 ### This widget is useful for switch between two icons in an animation way.
 ## 12.AnimatedList Widget 
 ### This widget is useful for showing items in List in an animation way.
+## 13.AnimatedOpacity Widget 
+### This widget is useful for showing and hiding items an animation way.
