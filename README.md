@@ -26,3 +26,5 @@
 ### This widget is useful for showing items in List in an animation way.
 ## 13.AnimatedOpacity Widget 
 ### This widget is useful for showing and hiding items an animation way.
+## 14.AnimatedPadding Widget 
+### This widget is useful for using padding widget in an animation way.
