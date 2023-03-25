@@ -32,3 +32,5 @@
 ### This widget is useful for showing elevation for widget in an animation way.
 ## 15.AnimatedPositioned Widget
 ### This widget is useful for moving a widget from place to another in an animation way.
+## 16.AnimatedRotation Widget
+### This widget is useful for rotate a widget in an animation way.

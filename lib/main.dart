@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_widgets/widgets/17_animated_rotation.dart';
 
-import 'widgets/16_animated_positioned.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedPositionedWidget(),
+      home: AnimatedRotationWidget(),
     );
   }
 }
