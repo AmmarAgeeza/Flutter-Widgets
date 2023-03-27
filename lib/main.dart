@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/widgets/17_animated_rotation.dart';
+import 'package:flutter_widgets/widgets/18_animated_size.dart';
 
 
 void main() {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedRotationWidget(),
+      home: AnimatedSizeWidget(),
     );
   }
 }

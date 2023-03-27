@@ -30,7 +30,9 @@
 ### This widget is useful for using padding widget in an animation way.
 ## 15.AnimatedPhysicalModel Widget
 ### This widget is useful for showing elevation for widget in an animation way.
-## 15.AnimatedPositioned Widget
+## 16.AnimatedPositioned Widget
 ### This widget is useful for moving a widget from place to another in an animation way.
-## 16.AnimatedRotation Widget
+## 17.AnimatedRotation Widget
 ### This widget is useful for rotate a widget in an animation way.
+## 18.AnimatedSize Widget
+### This widget is useful for change size of a widget in an animation way.
