@@ -36,3 +36,5 @@
 ### This widget is useful for rotate a widget in an animation way.
 ## 18.AnimatedSize Widget
 ### This widget is useful for change size of a widget in an animation way.
+## 19.AnimatedSwitcher Widget
+### This widget is useful for switch between two value or widgets in an animation way.

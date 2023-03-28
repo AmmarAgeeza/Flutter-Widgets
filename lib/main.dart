@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/widgets/18_animated_size.dart';
+
+import 'widgets/19_animated_swicher.dart';
 
 
 void main() {
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedSizeWidget(),
+      home: AnimatedSwitcherWidget(),
     );
   }
 }
