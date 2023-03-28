@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'widgets/19_animated_swicher.dart';
-
+import 'package:flutter_widgets/widgets/20_app_bar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +13,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: AnimatedSwitcherWidget(),
+      home: AppBarWidget(),
     );
   }
 }

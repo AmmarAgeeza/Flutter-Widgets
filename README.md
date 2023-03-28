@@ -38,3 +38,5 @@
 ### This widget is useful for change size of a widget in an animation way.
 ## 19.AnimatedSwitcher Widget
 ### This widget is useful for switch between two value or widgets in an animation way.
+## 20.AppBar Widget
+### This widget is useful for put an appbar widget in the screen.
