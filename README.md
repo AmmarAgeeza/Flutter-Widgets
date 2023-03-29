@@ -40,3 +40,5 @@
 ### This widget is useful for switch between two value or widgets in an animation way.
 ## 20.AppBar Widget
 ### This widget is useful for put an appbar widget in the screen.
+## 21.AspectRatio Widget
+### It will allow you to create a view ration on any flutter widgets.This AspectRatio can be really useful if you need a ratio like 4:3, 16:9 or 21:9.
