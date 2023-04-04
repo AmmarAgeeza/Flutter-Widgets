@@ -43,4 +43,6 @@
 ## 21.AspectRatio Widget
 ### It will allow you to create a view ration on any flutter widgets.This AspectRatio can be really useful if you need a ratio like 4:3, 16:9 or 21:9.
 ## 22.AutoComplete Widget
-### This widget is useful for adding  auto complete feature in our app.
+### This widget is useful for adding auto complete feature in our app.
+## 23.Banner Widget
+### This widget is useful for adding banner to product item as example.
