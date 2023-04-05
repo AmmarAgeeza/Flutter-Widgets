@@ -13,7 +13,7 @@ class _AnimatedListWidgetState extends State<AnimatedListWidget> {
 
   void addItem() {
     items.insert(0, "Item ${items.length + 1}");
-    key.currentState!.insertItem(0, duration: Duration(seconds: 1));
+    key.currentState!.insertItem(0, duration: const Duration(seconds: 1));
   }
 
   void removeItem(int index) {
