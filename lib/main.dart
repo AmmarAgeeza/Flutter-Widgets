@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/widget_024_bottom_navigation_bar.dart';
+import 'widgets/widget_025_bottom_sheet.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: BottomNavigationBarWidget(),
+      home: BottomSheetWidget(),
     );
   }
 }

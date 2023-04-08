@@ -48,3 +48,5 @@
 ### This widget is useful for adding banner to product item as example.
 ## 24.BottomNavigationBar Widget
 ### This widget is useful for adding BottomNavigationBar to navigate between more than 1 screen.
+## 25.BottomSheet Widget
+### This widget is useful for showing bottomsheet.
