@@ -50,3 +50,5 @@
 ### This widget is useful for adding BottomNavigationBar to navigate between more than 1 screen.
 ## 25.BottomSheet Widget
 ### This widget is useful for showing bottomsheet.
+## 26.Builder Widget
+### This widget is useful for providing context to widget when we want.
