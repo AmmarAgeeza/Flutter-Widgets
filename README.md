@@ -56,3 +56,5 @@
 ### This widget is useful for giving elevation to Content.
 ## 28.CheckBoxListTile Widget
 ### This widget is useful for using checkbox with title.
+## 29.Chip Widget
+### This widget is useful for removing some choices for example.
