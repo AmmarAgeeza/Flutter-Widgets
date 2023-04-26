@@ -58,3 +58,5 @@
 ### This widget is useful for using checkbox with title.
 ## 29.Chip Widget
 ### This widget is useful for removing some choices for example.
+## 30.ChoiceChip Widget
+### This widget is useful for select some choices from available items.
