@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/widget_033_clip_rect.dart';
+import 'widgets/widget_034_clip_r_rect.dart';
 
 
 
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: ClipRectWidget(),
+      home: ClipRRectWidget(),
     );
   }
 }

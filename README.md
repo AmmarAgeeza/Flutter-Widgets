@@ -64,5 +64,7 @@
 ### This widget is useful for creating custom widget and clipping it in oval way.
 ## 32.ClipPath Widget
 ### This widget is useful for creating custom widget and clipping it in beautiful way.
-## 32.ClipRect Widget
+## 33.ClipRect Widget
 ### This widget is useful for creating custom widget and clipping it.
+## 33.ClipRRect Widget
+### This widget is useful for creating custom widget and giving border radius to it.
