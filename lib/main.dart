@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_widgets/widgets/widget_032_clip_path.dart';
 
-import 'widgets/widget_031_clip_oval.dart';
 
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: ClipOvalWidget(),
+      home: ClipPathWidget(),
     );
   }
 }
