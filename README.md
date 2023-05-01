@@ -60,3 +60,5 @@
 ### This widget is useful for removing some choices for example.
 ## 30.ChoiceChip Widget
 ### This widget is useful for select some choices from available items.
+## 30.ClipOval Widget
+### This widget is useful for creating custom widget and clipping it in oval way.

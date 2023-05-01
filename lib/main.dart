@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/widget_030_choice_chip.dart';
+import 'widgets/widget_031_clip_oval.dart';
 
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Flutter Widgets',
       debugShowCheckedModeBanner: false,
-      home: ChoiceChipWidget(),
+      home: ClipOvalWidget(),
     );
   }
 }
