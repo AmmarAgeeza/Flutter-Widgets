@@ -75,3 +75,5 @@
 
 ## 1.CupertinoActionSheetAction
 ### This widget is useful for showing Bottom Sheet for IOS.
+## 2.CupertinoApp
+### This widget is the same of MaterialApp but for IOS.

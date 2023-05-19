@@ -8,7 +8,7 @@ class ChipWidget extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Chip(
-            label: Text('ChipWidget'),
+            label: const Text('ChipWidget'),
             onDeleted: () {
               print('deleted');
             }),
