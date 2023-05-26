@@ -81,3 +81,5 @@
 ### This widget is a loading animation but for IOS.
 ## 4.CupertinoButtonWidget 
 ### This widget is a button but for IOS.
+## 5.CupertinoAlertDialogWidget 
+### This widget is useful for appearing alert dialog but for IOS.
