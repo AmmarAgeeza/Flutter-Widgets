@@ -3,7 +3,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
-import 'package:flutter_widgets/cupertino_widgets/widget_003_cupertino_activity_indicator.dart';
+
+import 'cupertino_widgets/widget_004_cupertino_button.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,7 +36,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoActivityIndicatorWidget(),
+                  child: CupertinoButtonWidget(),
                 )),
           );
   }
