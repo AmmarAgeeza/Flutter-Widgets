@@ -87,3 +87,5 @@
 ### This widget is useful when user clicks on widgets multiple choics will appear.
 ## 7.CupertinoDatePicker Widget
 ### This widget is useful for taking date from user but for IOS.
+## 7.CupertinoPageRoute Widget
+### This widget is useful for navigating from screen to another.
