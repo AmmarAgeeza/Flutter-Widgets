@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
 
-import 'cupertino_widgets/widget_005_cupertino_alert_dialog.dart';
+import 'cupertino_widgets/widget_006_cupertino_context_menu.dart';
 
 
 void main() {
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoAlertDialogWidget(),
+                  child: CupertinoContextMenuWidget(),
                 )),
           );
   }

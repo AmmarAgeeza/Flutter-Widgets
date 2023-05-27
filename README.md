@@ -79,7 +79,9 @@
 ### This widget is the same of MaterialApp but for IOS.
 ## 3.CupertinoActivityIndicator 
 ### This widget is a loading animation but for IOS.
-## 4.CupertinoButtonWidget 
+## 4.CupertinoButton Widget 
 ### This widget is a button but for IOS.
-## 5.CupertinoAlertDialogWidget 
+## 5.CupertinoAlertDialog Widget 
 ### This widget is useful for appearing alert dialog but for IOS.
+## 6.CupertinoContextMenu Widget
+### This widget is useful when user clicks on widgets multiple choics will appear.
