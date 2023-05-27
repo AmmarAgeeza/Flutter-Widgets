@@ -85,3 +85,5 @@
 ### This widget is useful for appearing alert dialog but for IOS.
 ## 6.CupertinoContextMenu Widget
 ### This widget is useful when user clicks on widgets multiple choics will appear.
+## 7.CupertinoDatePicker Widget
+### This widget is useful for taking date from user but for IOS.

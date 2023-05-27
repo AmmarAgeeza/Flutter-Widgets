@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
 
-import 'cupertino_widgets/widget_006_cupertino_context_menu.dart';
+import 'cupertino_widgets/widget_007_cupertino_date_picker.dart';
 
 
 void main() {
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoContextMenuWidget(),
+                  child: CupertinoDatePickerWidget(),
                 )),
           );
   }
