@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
 
-import 'cupertino_widgets/widget_008_cupertino_page_route.dart';
+import 'cupertino_widgets/widget_009_cupertino_picker.dart';
 
 
 void main() {
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoPageRouteWidget(),
+                  child: CupertinoPickerWidget(),
                 )),
           );
   }
