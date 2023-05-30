@@ -93,3 +93,5 @@
 ### This widget is useful for pick value from user.
 ## 10.CupertinoPopupSurface Widget
 ### This widget is useful for showing pop up widget.
+## 11.CupertinoScrollBar Widget
+### This widget is useful for adding scrollbar while scrolling in IOS.
