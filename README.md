@@ -95,5 +95,7 @@
 ### This widget is useful for showing pop up widget.
 ## 11.CupertinoScrollBar Widget
 ### This widget is useful for adding scrollbar while scrolling in IOS.
-## 11.CupertinoSearchTextField Widget
+## 12.CupertinoSearchTextField Widget
 ### This widget is useful for adding search feature in IOS.
+## 13.CupertinoSegmentedControl Widget
+### This widget is useful for swichiung between tabs like TabBar but in IOS.
