@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
+import 'package:flutter_widgets/packages/packages_001_internet_connection_checker.dart';
 
 import 'cupertino_widgets/widget_014_cupertino_slider.dart';
 
@@ -15,15 +15,17 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return !Platform.isAndroid
+    return Platform.isAndroid
         ? const MaterialApp(
             title: 'Flutter Widgets',
             debugShowCheckedModeBanner: false,
             home: Scaffold(
-              body: CupertinoActionSheetActionWidget(),
+              body: Center(
+                child: InternetConnectionCheckerPakckage(),
+              ),
             ),
           )
-        :  const CupertinoApp(
+        : const CupertinoApp(
             debugShowCheckedModeBanner: false,
             theme: CupertinoThemeData(
                 scaffoldBackgroundColor: Color.fromARGB(255, 18, 32, 47),
