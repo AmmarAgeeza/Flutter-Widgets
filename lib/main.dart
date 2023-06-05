@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/cupertino_widgets/widget_001_cupertino_action_sheet_action.dart';
 
-import 'cupertino_widgets/widget_013_cupertino_segmented_control.dart';
+import 'cupertino_widgets/widget_014_cupertino_slider.dart';
 
 void main() {
   runApp(const MyApp());
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoSegmentedControlWidget(),
+                  child: CupertinoSliderWidget(),
                 )),
           );
   }

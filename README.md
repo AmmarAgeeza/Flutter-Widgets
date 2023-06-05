@@ -99,3 +99,5 @@
 ### This widget is useful for adding search feature in IOS.
 ## 13.CupertinoSegmentedControl Widget
 ### This widget is useful for swichiung between tabs like TabBar but in IOS.
+## 14.CupertinoSlider Widget
+### This widget is useful for taking input from user with slider but in IOS.
