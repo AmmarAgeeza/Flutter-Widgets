@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class ChipWidget extends StatelessWidget {
@@ -10,7 +11,9 @@ class ChipWidget extends StatelessWidget {
         child: Chip(
             label: const Text('ChipWidget'),
             onDeleted: () {
-              print('deleted');
+              if (kDebugMode) {
+                print('deleted');
+              }
             }),
       ),
     );

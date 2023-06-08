@@ -101,6 +101,8 @@
 ### This widget is useful for swichiung between tabs like TabBar but in IOS.
 ## 14.CupertinoSlider Widget
 ### This widget is useful for taking input from user with slider but in IOS.
+## 15.CupertinoTabScaffold Widget
+### This widget is useful for addinf bottm navigation bar but in IOS.
 
 
 # Packages>>

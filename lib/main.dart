@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/packages/packages_001_internet_connection_checker.dart';
 
-import 'cupertino_widgets/widget_014_cupertino_slider.dart';
+import 'cupertino_widgets/widget_015_cupertino_tab_bar_scaffold.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Platform.isAndroid
+    return !Platform.isAndroid
         ? const MaterialApp(
             title: 'Flutter Widgets',
             debugShowCheckedModeBanner: false,
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoSliderWidget(),
+                  child: CupertinoTabScaffoldWidget(),
                 )),
           );
   }

@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class AutoCompleteWidget extends StatelessWidget {
@@ -19,7 +20,11 @@ class AutoCompleteWidget extends StatelessWidget {
             return data.where((String element) =>
                 element.contains(textEditingValue.text.toLowerCase()));
           },
-          onSelected: (item) => print(item),
+          onSelected: (item) {
+            if (kDebugMode) {
+              print(item);
+            }
+          },
         ),
       ),
     );
