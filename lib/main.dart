@@ -4,8 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets/packages/packages_001_internet_connection_checker.dart';
 
-import 'cupertino_widgets/widget_015_cupertino_tab_bar_scaffold.dart';
-import 'cupertino_widgets/widget_016_cupertino_tab_view.dart';
+import 'cupertino_widgets/widget_017_cuperino_text_field.dart';
 
 void main() {
   runApp(const MyApp());
@@ -39,7 +38,7 @@ class MyApp extends StatelessWidget {
                   middle: Text('Cupertino Widgets'),
                 ),
                 child: Center(
-                  child: CupertinoTabViewWidget(),
+                  child: CuertinoTextFieldWidget(),
                 )),
           );
   }

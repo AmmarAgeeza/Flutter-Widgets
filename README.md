@@ -105,6 +105,8 @@
 ### This widget is useful for adding bottm navigation bar but in IOS.
 ## 16.CupertinoTabView Widget
 ### This widget is useful for adding Tab view to switch between two screens but in IOS.
+## 17.CupertinoTextField Widget
+### This widget is useful for taking input from user but in IOS.
 
 
 # Packages>>
