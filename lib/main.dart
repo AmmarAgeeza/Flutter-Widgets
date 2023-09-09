@@ -20,7 +20,7 @@ import 'cupertino_widgets/widget_017_cuperino_text_field.dart';
 //6. checkout maseter
 //7. fetch maseter [upadte master]
 //8. merge master with my branch
-//9.push to GitHub
+//9. push to GitHub
 //10. pull request
 
 
