@@ -7,7 +7,7 @@ import 'package:flutter_widgets/packages/packages_001_internet_connection_checke
 import 'cupertino_widgets/widget_017_cuperino_text_field.dart';
 // splash from ammar
 //login from anas
-//another login from ammar
+//another login from ammar hh
 
 //register from abdo
 
@@ -15,7 +15,7 @@ import 'cupertino_widgets/widget_017_cuperino_text_field.dart';
 // Steps
 //1. checkout maseter
 //2. fetch maseter [upadte master]
-//3. create branch from master [new Task]
+//3. create branch from master [new Task] ||  if i aready have branch, use git merge master
 //4. code the task.
 //5. commit
 //6. checkout maseter
