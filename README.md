@@ -70,6 +70,8 @@
 ### This widget is useful for creating custom widget and giving border radius to it.
 ## 34.ClipRRect Widget
 ### This widget is useful for creating custom widget and giving border radius to it.
+## 34.CustomPaint Widget
+### This widget is useful for paint any custom shape in flutter.
 
 # Cupertino Widgets>>
 

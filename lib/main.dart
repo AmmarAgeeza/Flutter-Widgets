@@ -2,9 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/packages/packages_001_internet_connection_checker.dart';
 
 import 'cupertino_widgets/widget_017_cuperino_text_field.dart';
+import 'widgets/widget_035_custom_paint_widget.dart';
 // splash from ammar
 //login from anas
 //another login from ammar ff
@@ -35,13 +35,13 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return !Platform.isAndroid
+    return Platform.isAndroid
         ? const MaterialApp(
             title: 'Flutter Widgets',
             debugShowCheckedModeBanner: false,
             home: Scaffold(
               body: Center(
-                child: InternetConnectionCheckerPakckage(),
+                child: CustomPaintWidget(),
               ),
             ),
           )
